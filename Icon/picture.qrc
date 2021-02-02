@@ -1,0 +1,64 @@
+<RCC>
+  <qresource>
+    <file>./smaller.svg</file>
+    <file>./larger.svg</file>
+    <file>./Ahu.jpg</file>
+    <file>./messi.jpg</file>
+    <file>./cancel.png</file>
+    <file>./document.png</file>
+    <file>./file.png</file>
+    <file>./folder (1).png</file>
+    <file>./folder.png</file>
+    <file>./football.png</file>
+    <file>./garbage.png</file>
+    <file>./moon.png</file>
+    <file>./picture.png</file>
+    <file>./power.png</file>
+    <file>./ribbon.png</file>
+    <file>./speaker.png</file>
+    <file>./bg1.jpg</file>
+    <file>./bg1.png</file>
+    <file>./bg-cloud.jpg</file>
+    <file>./Chicken.jpg</file>
+    <file>./cat.jpg</file>
+    <file>./sinba-dog.jpg</file>
+    <file>./timg (2).jpg</file>
+    <file>./timg (3).jpg</file>
+    <file>./home.png</file>
+    <file>./pause.png</file>
+    <file>./pause_1.png</file>
+    <file>./play.png</file>
+    <file>./play-button.png</file>
+    <file>./planting.png</file>
+    <file>./ladybug.png</file>
+    <file>./battery.ico</file>
+    <file>./bluetooth.png</file>
+    <file>./Googlecircle.ico</file>
+    <file>./Ps.ico</file>
+    <file>./返回.svg</file>
+    <file>./前进.svg</file>
+    <file>./刷新.svg</file>
+    <file>./关闭.svg</file>
+    <file>./用户.svg</file>
+    <file>./密码.svg</file>
+    <file>./网页链接.svg</file>
+    <file>./后退.svg</file>
+    <file>./最小化.svg</file>
+    <file>./timg.gif</file>
+    <file>./猪猪侠.gif</file>
+    <file>./whilte.gif</file>
+    <file>./up.gif</file>
+    <file>./picture_changing.gif</file>
+    <file>./television.png</file>
+    <file>./农道.png</file>
+    <file>./address.png</file>
+    <file>./address2.png</file>
+    <file>./QQ.jpg</file>
+    <file>./WeChat.png</file>
+    <file>./corn.png</file>
+    <file>./蔬菜.jpg</file>
+    <file>./fruit.jpg</file>
+    <file>./healthcheck.jpg</file>
+    <file>./leaf.jfif</file>
+  </qresource>
+</RCC>
